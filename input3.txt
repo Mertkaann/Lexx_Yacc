@@ -1,0 +1,19 @@
+int a = 4;
+
+while(a < 3){
+
+	print 5;
+	print a;
+	if(a){
+	
+		print a*a;
+		
+	}
+	
+}
+if(a){
+	print a+5;
+}
+
+
+exit;

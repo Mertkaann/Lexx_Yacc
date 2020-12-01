@@ -1,0 +1,13 @@
+int a=5;
+float b=1.2;
+
+if(4+1){
+	print (a+2*(3+1))*(b+a);
+	}
+print a;
+if(a){
+	print a*a;
+	print bbb
+	}
+exit;
+

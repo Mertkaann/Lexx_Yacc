@@ -1,0 +1,14 @@
+int a = 5 + 13.4;
+
+float b=12.2 + 14;
+
+print a;
+print b;
+
+while(4>b){
+if(a && 4 + 5)
+	print b+a;
+
+print b;
+}
+exit;

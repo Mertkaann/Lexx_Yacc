@@ -1,0 +1,671 @@
+    1  sudo apt-get install flex
+    2  cd Desktop
+    3  lex verb.l
+    4  sudo apt install flex
+    5  cd Desktop
+    6  sudo apt-get install flex
+    7  lex verb.l
+    8  sudo apt install flex
+    9  sudo apt install flex-old
+   10  sudo apt-get install flex-old
+   11  sudo apt install update
+   12  sudo apt-get install flex-old
+   13  sudo apt install flex-old
+   14  ./a
+   15  ./amain
+   16  iğşüğşğ
+   17  üi..i.
+   18  ğşğ,iş
+   19  ğğğüişi
+   20  cd Desktop
+   21  gcc -o main a.c
+   22  sudo apt install gcc
+   23  gcc -o main a.c
+   24  sudo apt install gcc
+   25  sudo apt install build-esential
+   26  cd Desktop
+   27  sudo apt install build-esential
+   28  mert
+   29  gcc
+   30  sudo apt install gcc
+   31  cd Desktop
+   32  gcc -o main a.c
+   33  clear
+   34  gcc -o main 17290102.c
+   35  ./main
+   36  ./main>customer.txt
+   37  ./main<customer.txt
+   38  ./main>output.txt
+   39  ./main<customer.txt>output.txt
+   40  cd Desktop
+   41  gcc -o main 17290102.c
+   42  ./main<customer.txt>output.txt
+   43  gcc -o main 17290102.c
+   44  ./main<customer.txt>output2.txt
+   45  sudo-apt get install flex
+   46  sudo apt get install flex
+   47  sudo apt install flex
+   48  sudo apt install bison
+   49  cd Desktop
+   50  ls
+   51  config.in
+   52  vi config.in
+   53  cd Desktop
+   54  ls
+   55  vi config.in
+   56  cd Desktop
+   57  vi myscanner.h
+   58  stty sane
+   59  vi config.in
+   60  cd Desktop
+   61  vi config.in
+   62  cd Desktop
+   63  vi config.in
+   64  CD dESKTOP
+   65  cd Desktop
+   66  vi myscanner.l
+   67  cd Desktop
+   68  ls
+   69  cd lex
+   70  ls
+   71  lex myscanner.l
+   72  ls
+   73  gcc myscanner.c lex.yy.c -o myscanner
+   74  ls
+   75  ./myscanner <config.in
+   76  gcc myscanner.c lex.yy.c -o myscanner
+   77  ./myscanner <config.in
+   78  lex myscanner.l
+   79  gcc myscanner.c lex.yy.c -o myscanner
+   80  ./myscanner <config.in
+   81  lex myscanner.l
+   82  gcc myscanner.c lex.yy.c -o myscanner
+   83  ./myscanner <config.in
+   84  lex myscanner.l
+   85  gcc myscanner.c lex.yy.c -o myscanner
+   86  ./myscanner <config.in
+   87  lex myscanner.l
+   88  ./myscanner <config.in
+   89  gcc myscanner.c lex.yy.c -o myscanner
+   90  ./myscanner <config.in
+   91  lex myscanner.l
+   92  gcc myscanner.c lex.yy.c -o myscanner
+   93  ./myscanner <config.in
+   94  lex myscanner.l
+   95  gcc myscanner.c lex.yy.c -o myscanner
+   96  ./myscanner <config.in
+   97  lex myscanner.l
+   98  gcc myscanner.c lex.yy.c -o myscanner
+   99  ./myscanner <config.in
+  100  lex myscanner.l
+  101  gcc myscanner.c lex.yy.c -o myscanner
+  102  ./myscanner <config.in
+  103  lex myscanner.l
+  104  gcc myscanner.c lex.yy.c -o myscanner
+  105  ./myscanner <config.in
+  106  lex myscanner.l
+  107  gcc myscanner.c lex.yy.c -o myscanner
+  108  ./myscanner <config.in
+  109  ls
+  110  vi config.in
+  111  ls -l
+  112  lex mylanguage.l
+  113  ls
+  114  gcc lex.yy.c y.tab.c -o calc
+  115  lex mylanguage.l
+  116  yacc -d mylanguage.y
+  117  gcc lex.yy.c y.tab.c -o calc
+  118  yacc -d mylanguage.y
+  119  gcc lex.yy.c y.tab.c -o calc
+  120  yacc -d mylanguage.y
+  121  gcc lex.yy.c y.tab.c -o calc
+  122  yacc -d mylanguage.y
+  123  gcc lex.yy.c y.tab.c -o calc
+  124  yacc -d mylanguage.y
+  125  gcc lex.yy.c y.tab.c -o calc
+  126  yacc -d mylanguage.y
+  127  gcc lex.yy.c y.tab.c -o calc
+  128  yacc -d mylanguage.y
+  129  gcc lex.yy.c y.tab.c -o calc
+  130  yacc -d mylanguage.y
+  131  gcc lex.yy.c y.tab.c -o calc
+  132  yacc -d mylanguage.y
+  133  gcc lex.yy.c y.tab.c -o calc
+  134  yacc -d mylanguage.y
+  135  gcc lex.yy.c y.tab.c -o calc
+  136  yacc -d mylanguage.y
+  137  gcc lex.yy.c y.tab.c -o calc
+  138  yacc -d mylanguage.y
+  139  gcc lex.yy.c y.tab.c -o calc
+  140  yacc -d mylanguage.y
+  141  gcc lex.yy.c y.tab.c -o calc
+  142  yacc -d mylanguage.y
+  143  gcc lex.yy.c y.tab.c -o calc
+  144  yacc -d mylanguage.y
+  145  gcc lex.yy.c y.tab.c -o calc
+  146  sudo apt-get install bison flex
+  147  yacc -d mylanguage.y
+  148  gcc lex.yy.c y.tab.c -o calc
+  149  yacc -d mylanguage.y
+  150  gcc lex.yy.c y.tab.c -o calc
+  151  yacc -d mylanguage.y
+  152  gcc lex.yy.c y.tab.c -o calc
+  153  ./main
+  154  ./calc
+  155  yacc -d mylanguage.y
+  156  gcc lex.yy.c y.tab.c -o calc
+  157  ./calc
+  158  lex mylanguage.l
+  159  yacc -d mylanguage.y
+  160  gcc lex.yy.c y.tab.c -o calc
+  161  ./calc
+  162  vi mylanguage.y
+  163  11
+  164  gcc lex.yy.c y.tab.c -o calc
+  165  yacc -d mylanguage.y
+  166  gcc lex.yy.c y.tab.c -o calc
+  167  ./calc
+  168  gcc lex.yy.c y.tab.c -o calc
+  169  ./calc
+  170  yacc -d mylanguage.y
+  171  gcc lex.yy.c y.tab.c -o calc
+  172  ./calc
+  173  yacc -d mylanguage.y
+  174  gcc lex.yy.c y.tab.c -o calc
+  175  ./calc
+  176  yacc -d mylanguage.y
+  177  gcc lex.yy.c y.tab.c -o calc
+  178  ./calc
+  179  ls
+  180  yacc -d mylanguage.y
+  181  gcc lex.yy.c y.tab.c -o calc
+  182  ./calc
+  183  yacc -d mylanguage.y
+  184  ./calc
+  185  gcc lex.yy.c y.tab.c -o calc
+  186  ./calc
+  187  yacc -d mylanguage.y
+  188  gcc lex.yy.c y.tab.c -o calc
+  189  ./calc
+  190  yacc -d mylanguage.y
+  191  gcc lex.yy.c y.tab.c -o calc
+  192  ./calc
+  193  gcc lex.yy.c y.tab.c -o calc
+  194  yacc -d mylanguage.y
+  195  gcc lex.yy.c y.tab.c -o calc
+  196  cd Desktop
+  197  cd lex6
+  198  ls
+  199  lex mylanguage.l
+  200  yacc -d mylanguage.y
+  201  clear
+  202  yacc -d mylanguage.y
+  203  cd Desktop
+  204  cd lex6
+  205  yacc -d mylanguage.y
+  206  lex mylanguage.l
+  207  gcc lex.yy.c y.tab.c -o main
+  208  yacc -d mylanguage.y
+  209  gcc lex.yy.c y.tab.c -o main
+  210  ./main
+  211  lex mylanguage.l
+  212  yacc -d mylanguage.y
+  213  gcc lex.yy.c y.tab.c -o main
+  214  ./main
+  215  yacc -d mylanguage.y
+  216  gcc lex.yy.c y.tab.c -o main
+  217  lex mylanguage.l
+  218  yacc -d mylanguage.y
+  219  lex mylanguage.l
+  220  yacc -d mylanguage.y
+  221  clear
+  222  yacc -d mylanguage.y
+  223  lex mylanguage.l
+  224  gcc lex.yy.c y.tab.c -o main
+  225  ./main
+  226  yacc -d mylanguage.y
+  227  lex mylanguage.l
+  228  gcc lex.yy.c y.tab.c -o main
+  229  ./main
+  230  yacc -d mylanguage.y
+  231  cd Desktop
+  232  ls
+  233  cd Desktop
+  234  cd lex6
+  235  yacc -d mylanguage.y
+  236  gcc lex.yy.c y.tab.c -o main
+  237  ./main
+  238  gcc lex.yy.c y.tab.c -o main
+  239  yacc -d mylanguage.y
+  240  gcc lex.yy.c y.tab.c -o main
+  241  yacc -d mylanguage.y
+  242  gcc lex.yy.c y.tab.c -o main
+  243  ./main
+  244  gcc lex.yy.c y.tab.c -o main
+  245  yacc -d mylanguage.y
+  246  gcc lex.yy.c y.tab.c -o main
+  247  ./main
+  248  yacc -d mylanguage.y
+  249  gcc lex.yy.c y.tab.c -o main
+  250  ./main<input1.txt
+  251  yacc -d mylanguage.y
+  252  gcc lex.yy.c y.tab.c -o main
+  253  ./main<input1.txt
+  254  yacc -d mylanguage.y
+  255  gcc lex.yy.c y.tab.c -o main
+  256  ./main<input1.txt
+  257  yacc -d mylanguage.y
+  258  gcc lex.yy.c y.tab.c -o main
+  259  ./main<input1.txt
+  260  yacc -d mylanguage.y
+  261  gcc lex.yy.c y.tab.c -o main
+  262  ./main<input2.txt
+  263  lex mylanguage.l
+  264  yacc -d mylanguage.y
+  265  gcc lex.yy.c y.tab.c -o main
+  266  ./main<input2.txt
+  267  ./main<input1.txt
+  268  yacc -d mylanguage.y
+  269  lex mylanguage.l
+  270  gcc lex.yy.c y.tab.c -o main
+  271  ./m
+  272  ./main<input1.txt
+  273  ./main<input2.txt
+  274  lex mylanguage.l
+  275  yacc -d mylanguage.y
+  276  gcc lex.yy.c y.tab.c -o main
+  277  yacc -d mylanguage.y
+  278  lex mylanguage.l
+  279  gcc lex.yy.c y.tab.c -o main
+  280  ./main<input2.txt
+  281  yacc -d mylanguage.y
+  282  lex mylanguage.l
+  283  gcc lex.yy.c y.tab.c -o main
+  284  yacc -d mylanguage.y
+  285  lex mylanguage.l
+  286  gcc lex.yy.c y.tab.c -o main
+  287  ./main<input2.txt
+  288  ./main<input1.txt
+  289  yacc -d mylanguage.y
+  290  yacc -d mylanguage.y
+  291  lex mylanguage.l
+  292  gcc lex.yy.c y.tab.c -o main
+  293  ./main<input1.txt
+  294  yacc -d mylanguage.y
+  295  lex mylanguage.l
+  296  gcc lex.yy.c y.tab.c -o main
+  297  ./main<input1.txt
+  298  gcc lex.yy.c y.tab.c -o main
+  299  ./main<input1.txt
+  300  yacc -d mylanguage.y
+  301  lex mylanguage.l
+  302  yacc -d mylanguage.y
+  303  gcc lex.yy.c y.tab.c -o main
+  304  lex mylanguage.l
+  305  yacc -d mylanguage.y
+  306  gcc lex.yy.c y.tab.c -o main
+  307  ./main<input1.txt
+  308  lex mylanguage.l
+  309  yacc -d mylanguage.y
+  310  gcc lex.yy.c y.tab.c -o main
+  311  ./main<input1.txt
+  312  lex mylanguage.l
+  313  yacc -d mylanguage.y
+  314  gcc lex.yy.c y.tab.c -o main
+  315  ./main<input1.txt
+  316  lex mylanguage.l
+  317  yacc -d mylanguage.y
+  318  gcc lex.yy.c y.tab.c -o main
+  319  ./main<input1.txt
+  320  lex mylanguage.l
+  321  yacc -d mylanguage.y
+  322  gcc lex.yy.c y.tab.c -o main
+  323  ./main<input1.txt
+  324  lex mylanguage.l
+  325  yacc -d mylanguage.y
+  326  ./main<input1.txt
+  327  lex mylanguage.l
+  328  yacc -d mylanguage.y
+  329  gcc lex.yy.c y.tab.c -o main
+  330  ./main<input1.txt
+  331  lex mylanguage.l
+  332  yacc -d mylanguage.y
+  333  gcc lex.yy.c y.tab.c -o main
+  334  ./main<input1.txt
+  335  lex mylanguage.l
+  336  yacc -d mylanguage.y
+  337  gcc lex.yy.c y.tab.c -o main
+  338  ./main<input1.txt
+  339  lex a.l
+  340  gcc lex.yy.c -lfl
+  341  lex a.l
+  342  lex a.l
+  343  gcc lex.yy.c -lfl
+  344  lex a.l
+  345  gcc lex.yy.c -lfl
+  346  ls
+  347  ./a.out
+  348  yacc -d mylanguage.y
+  349  lex mylanguage.l
+  350  gcc lex.yy.c y.tab.c -o main
+  351  ./main<input1.txt
+  352  lex mylanguage.l
+  353  yacc -d mylanguage.y
+  354  gcc lex.yy.c y.tab.c -o main
+  355  ./main<input1.txt
+  356  lex mylanguage.l
+  357  yacc -d mylanguage.y
+  358  gcc lex.yy.c y.tab.c -o main
+  359  ./main<input1.txt
+  360  lex mylanguage.l
+  361  yacc -d mylanguage.y
+  362  gcc lex.yy.c y.tab.c -o main
+  363  yacc -d mylanguage.y
+  364  lex mylanguage.l
+  365  gcc lex.yy.c y.tab.c -o main
+  366  lex mylanguage.l
+  367  yacc -d mylanguage.y
+  368  gcc lex.yy.c y.tab.c -o main
+  369  ./main<input1.txt
+  370  yacc -d mylanguage.y
+  371  gcc lex.yy.c y.tab.c -o main
+  372  ./main<input1.txt
+  373  yacc -d mylanguage.y
+  374  lex mylanguage.l
+  375  gcc lex.yy.c y.tab.c -o main
+  376  ./main<input1.txt
+  377  yacc -d mylanguage.y
+  378  gcc lex.yy.c y.tab.c -o main
+  379  ./main<input1.txt
+  380  ./main<input3.txt
+  381  yacc -d mylanguage.y
+  382  gcc lex.yy.c y.tab.c -o main
+  383  ./main<input3.txt
+  384  yacc -d mylanguage.y
+  385  gcc lex.yy.c y.tab.c -o main
+  386  ./main<input3.txt
+  387  lex mylanguage.l
+  388  gcc lex.yy.c y.tab.c -o main
+  389  yacc -d mylanguage.y
+  390  gcc lex.yy.c y.tab.c -o main
+  391  ./main<input3.txt
+  392  yacc -d mylanguage.y
+  393  gcc lex.yy.c y.tab.c -o main
+  394  ./main<input3.txt
+  395  ./main<input1.txt
+  396  lex mylanguage.l
+  397  gcc lex.yy.c y.tab.c -o main
+  398  ./main<input3.txt
+  399  yacc -d mylanguage.y
+  400  lex mylanguage.l
+  401  yacc -d mylanguage.y
+  402  lex mylanguage.l
+  403  yacc -d mylanguage.y
+  404  lex mylanguage.l
+  405  yacc -d mylanguage.y
+  406  gcc lex.yy.c y.tab.c -o main
+  407  yacc -d mylanguage.y
+  408  lex mylanguage.l
+  409  gcc lex.yy.c y.tab.c -o main
+  410  ./main<input3.txt
+  411  ./main<input1.txt
+  412  ./main<input3.txt
+  413  ./main<input1.txt
+  414  yacc -d mylanguage.y
+  415  ./main<input1.txt
+  416  yacc -d mylanguage.y
+  417  gcc lex.yy.c y.tab.c -o main
+  418  ./main<input1.txt
+  419  gcc lex.yy.c y.tab.c -o main
+  420  yacc -d mylanguage.y
+  421  gcc lex.yy.c y.tab.c -o main
+  422  ./main<input1.txt
+  423  ./main<input3.txt
+  424  yacc -d mylanguage.y
+  425  gcc lex.yy.c y.tab.c -o main
+  426  ./main<input3.txt
+  427  yacc -d mylanguage.y
+  428  gcc lex.yy.c y.tab.c -o main
+  429  ./main<input3.txt
+  430  yacc -d mylanguage.y
+  431  lex mylanguage.l
+  432  gcc lex.yy.c y.tab.c -o main
+  433  yacc -d mylanguage.y
+  434  lex mylanguage.l
+  435  gcc lex.yy.c y.tab.c -o main
+  436  lex mylanguage.l
+  437  yacc -d mylanguage.y
+  438  gcc lex.yy.c y.tab.c -o main
+  439  ./main<input3.txt
+  440  yacc -d mylanguage.y
+  441  lex mylanguage.l
+  442  gcc lex.yy.c y.tab.c -o main
+  443  ./main<input4.txt
+  444  gcc lex.yy.c y.tab.c -o main
+  445  ./main<input4.txt
+  446  yacc -d mylanguage.y
+  447  yacc -d mylanguage.y
+  448  clear
+  449  yacc -d mylanguage.y
+  450  clear
+  451  yacc -d mylanguage.y
+  452  clear
+  453  yacc -d mylanguage.y
+  454  clear
+  455  yacc -d mylanguage.y
+  456  gcc lex.yy.c y.tab.c -o main
+  457  clear
+  458  yacc -d mylanguage.y
+  459  lex mylanguage.l
+  460  gcc lex.yy.c y.tab.c -o main
+  461  ./main<input4.txt
+  462  lex mylanguage.l
+  463  yacc -d mylanguage.y
+  464  lex mylanguage.lc
+  465  lex mylanguage.l
+  466  yacc -d mylanguage.y
+  467  lex mylanguage.l
+  468  yacc -d mylanguage.y
+  469  yacc -d mylanguage.y
+  470  gcc lex.yy.c y.tab.c -o main
+  471  clear
+  472  yacc -d mylanguage.y
+  473  lex mylanguage.l
+  474  gcc lex.yy.c y.tab.c -o main
+  475  lex mylanguage.l
+  476  yacc -d mylanguage.y
+  477  gcc lex.yy.c y.tab.c -o main
+  478  yacc -d mylanguage.y
+  479  gcc lex.yy.c y.tab.c -o main
+  480  yacc -d mylanguage.y
+  481  gcc lex.yy.c y.tab.c -o main
+  482  yacc -d mylanguage.y
+  483  gcc lex.yy.c y.tab.c -o main
+  484  ./main<input4.txt
+  485  gcc lex.yy.c y.tab.c -o main
+  486  yacc -d mylanguage.y
+  487  gcc lex.yy.c y.tab.c -o main
+  488  ./main<input4.txt
+  489  yacc -d mylanguage.y
+  490  gcc lex.yy.c y.tab.c -o main
+  491  ./main<input4.txt
+  492  clear
+  493  ./main<input4.txt
+  494  yacc -d mylanguage.y
+  495  gcc lex.yy.c y.tab.c -o main
+  496  ./main<input4.txt
+  497  yacc -d mylanguage.y
+  498  lex mylanguage.l
+  499  gcc lex.yy.c y.tab.c -o main
+  500  ./main<input4.txt
+  501  yacc -d mylanguage.y
+  502  lex mylanguage.l
+  503  ./main<input4.txt
+  504  cd Desktop
+  505  cd lex9
+  506  yacc -d mylanguage.y
+  507  lex mylanguage.l
+  508  gcc lex.yy.c y.tab.c -o main
+  509  ./main
+  510  ./main<input4.txt
+  511  ./main<input3.txt
+  512  ./main<input4.txt
+  513  clear
+  514  lex mylanguage.l
+  515  yacc -d mylanguage.y
+  516  lex mylanguage.l
+  517  ./main<input4.txt
+  518  cd Desktop
+  519  cd lex6
+  520  lex mylanguage.l
+  521  yacc -d mylanguage.y
+  522  gcc lex.yy.c y.tab.c -o main
+  523  ./main<input4.txt
+  524  ./main<input3.txt
+  525  ./main<input2.txt
+  526  ./main<input1.txt
+  527  ./main<input2.txt
+  528  gcc lex.yy.c y.tab.c -o main
+  529  yacc -d mylanguage.y
+  530  lex mylanguage.l
+  531  gcc lex.yy.c y.tab.c -o main
+  532  ./main<input2.txt
+  533  lex mylanguage.l
+  534  yacc -d mylanguage.y
+  535  clear
+  536  lex mylanguage.l
+  537  yacc -d mylanguage.y
+  538  gcc lex.yy.c y.tab.c -o main
+  539  ./main<input2.txt
+  540  yacc -d mylanguage.y
+  541  lex mylanguage.l
+  542  gcc lex.yy.c y.tab.c -o main
+  543  ./main<input2.txt
+  544  lex mylanguage.l
+  545  yacc -d mylanguage.y
+  546  gcc lex.yy.c y.tab.c -o main
+  547  ./main<input2.txt
+  548  yacc -d mylanguage.y
+  549  lex mylanguage.l
+  550  gcc lex.yy.c y.tab.c -o main
+  551  ./main<input2.txt
+  552  yacc -d mylanguage.y
+  553  lex mylanguage.l
+  554  gcc lex.yy.c y.tab.c -o main
+  555  ./main<input2.txt
+  556  lex mylanguage.l
+  557  yacc -d mylanguage.y
+  558  gcc lex.yy.c y.tab.c -o main
+  559  ./main<input2.txt
+  560  gcc lex.yy.c y.tab.c -o main
+  561  yacc -d mylanguage.y
+  562  lex mylanguage.l
+  563  ./main<input2.txt
+  564  yacc -d mylanguage.y
+  565  lex mylanguage.l
+  566  gcc lex.yy.c y.tab.c -o main
+  567  ./main<input2.txt
+  568  ./main<input1.txt
+  569  clear
+  570  ./main<input1.txt
+  571  ./main<input2.txt
+  572  ./main<input3.txt
+  573  ./main<input4.txt
+  574  cd Desktop
+  575  cd lex4
+  576  cd lex6
+  577  lex mylanguage.l
+  578  yacc -d mylanguage.y
+  579  gcc lex.yy.c y.tab.c -o main
+  580  ./main<input1.txt
+  581  ./main<input4.txt
+  582  ./main<input2.txt
+  583  ./main<input3.txt
+  584  exit
+  585  lex mylanguage.l
+  586  cd lex6
+  587  cd Desktop
+  588  cd lex
+  589  lex mylanguage.l
+  590  yacc -d mylanguage.y
+  591  gcc lex.yy.c y.tab.c -o main
+  592  exit
+  593  cd Desktop
+  594  cd lex6
+  595  yacc -d mylanguage.y
+  596  lex mylanguage.l
+  597  gcc lex.yy.c y.tab.c -o main
+  598  ./main<input3.txt
+  599  ./main<input1.txt
+  600  ./main<input2.txt
+  601  ./main<input4.txt
+  602  exit
+  603  cd Desktop
+  604  cd Lex&&Yacc
+  605  cd lex6
+  606  cd Desktop
+  607  cd Lex&&Yacc
+  608  cd lex9
+  609  exit
+  610  cd Desktop
+  611  cd lex_yacc
+  612  lex mylanguage.l
+  613  yacc -d mylanguage.y
+  614  gcc lex.yy.c y.tab.c -o main
+  615  ./main<input2.txt
+  616  ./main<input1.txt
+  617  ./main<input3.txt
+  618  ./main<input4.txt
+  619  exit
+  620  cd Desktop
+  621  cd lex_yacc
+  622  lex mylanguage.l
+  623  yacc -d mylanguage.y
+  624  gcc lex.yy.c y.tab.c -o main
+  625  ./main<input1.txt
+  626  ./main<input2.txt
+  627  ./main<input3.txt
+  628  ./main<input4.txt
+  629  ./vmware-install.pl 
+  630  sudo ./vmware-install.pl 
+  631  cd Desktop
+  632  history
+  633  history | grep "lex mylanguage.l"
+  634  clear
+  635  cd Desktop
+  636  gcc 17290102.cpp && ./a.out<a.txt>o
+  637  gcc 17290102.cpp
+  638  gpp 17290102.cpp && ./a.out<a.txt>o
+  639  g++ 17290102.cpp && ./a.out<a.txt>o
+  640  sudo apt install g++
+  641  sudo apt-get install g++
+  642  sudo apt install g++
+  643  gcc -o main 17290102.cpp
+  644  clear
+  645  gcc -o main 17290102.cpp
+  646  cd Desktop
+  647  gcc -o main 17290102.cpp
+  648  sudo apt-get install g++
+  649  gcc -o main 17290102.cpp
+  650  g++ -o main 17290102.cpp
+  651  ./main<a.txt>output.txt
+  652  ./main<b.txt>output.txt
+  653  g++ -o main 17290102.cpp
+  654  ./main<a.txt>output.txt
+  655  ./main<b.txt>output.txt
+  656  clear
+  657  ./main<input1.txt
+  658  ./main<input2.txt 
+  659  ./main<input3.txt 
+  660  ./main<input4.txt 
+  661  ls
+  662  lex mylanguage.l
+  663  gcc -o example lex.yy.c .yy.c
+  664  gcc -o example lex.yy.c
+  665  yacc mylanguage.y
+  666  gcc -o example y.tab.c
+  667  ./example
+  668  ./main<input3.txt 
+  669  lex mylanguage.l
+  670  history
+  671  history>history.txt

@@ -1,0 +1,8 @@
+int a = 3.14;
+float b = 2.14 + a;
+
+print a;
+if((a && b) || (a < 5))
+	while((a && b+3 ) && (a > 10+3))
+		print a;
+
